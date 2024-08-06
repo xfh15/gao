@@ -1,0 +1,11 @@
+{
+    "lives": [
+      {
+        "name": "myself",
+        "url": "./scunicom_v1.m3u",
+        "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+        "logo": "https://epg.112114.xyz/logo/{name}.png",
+        "playerType": 0
+      }
+    ]
+  }
