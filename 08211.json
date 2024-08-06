@@ -2,7 +2,7 @@
 "spider":"./jar/fan.txt;md5;d295ec4dcf9a78f8441996009a88ecb0",
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
 "lives":[
-  {"name":"myself","type":0,"url": "./scunicom_v1.txt","playerType":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+  {"name":"myself","type":0,"url": "./scunicom_v1.txt","playerType":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
