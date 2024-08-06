@@ -77,6 +77,6 @@ CETV4,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227337/index.m3u8
 康巴卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227629/index.m3u8
 麻辣体育,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227811/index.m3u8
 一起看,#genre#
-阿斗归来了,https://www.goodiptv.club/huya/13303478
-阿斗归来了2,https://live.dragonproudsky.com/huya/13303478
+阿斗归来了,https://live.dragonproudsky.com/huya/13303478,https://www.goodiptv.club/huya/13303478
 经典小品,http://live.dragonproudsky.com/douyu/9067836
+CCTV-1,http://live.dragonproudsky.com/ysptp/cctv1.m3u8,http://live.dragonproudsky.com/itv/6000000001000029752.m3u8?cdn=wasusyt,http://live.dragonproudsky.com/itv/5000000004000002226.m3u8?cdn=bestzb
