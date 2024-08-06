@@ -1,4 +1,4 @@
-央视
+央视,#genre#
 CCTV-1,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227479/index.m3u8
 CCTV-2,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227477/index.m3u8
 CCTV-3,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227435/index.m3u8
@@ -16,7 +16,7 @@ CCTV-14,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227379/index.m3u8
 CCTV-15,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227933/index.m3u8
 CCTV-17,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227577/index.m3u8
 CCTV-5+,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227493/index.m3u8
-卫视
+卫视,#genre#
 湖南卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227369/index.m3u8
 浙江卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227351/index.m3u8
 江苏卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227421/index.m3u8
@@ -62,7 +62,7 @@ CGTN,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227391/index.m3u8
 CETV2,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227940/index.m3u8
 CETV4,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227337/index.m3u8
 山东教育,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227945/index.m3u8
-四川
+四川,#genre#
 宜宾新闻综合,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227541/index.m3u8
 四川卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227417/index.m3u8
 四川新闻,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227411/index.m3u8
