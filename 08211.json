@@ -2,7 +2,12 @@
 "spider":"./jar/fan.txt;md5;d295ec4dcf9a78f8441996009a88ecb0",
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
 "lives":[
-  {"name":"myself","url":"./scunicom_v1.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","playerType":0}
+  {"name":"myself","url":"./scunicom_v1.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","playerType":0},
+  {"name":"tv","url":"https://live.dragonproudsky.com/tv.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","playerType":0},
+  {"name":"huya","url":"https://live.dragonproudsky.com/huyayqk.m3u","playerType":0},
+  {"name":"douyu","url":"https://live.dragonproudsky.com/douyuyqk.m3u","playerType":0},
+  {"name":"bilibli","url":"https://live.dragonproudsky.com/bililive.m3u","playerType":0},
+  {"name":"yy","url":"https://live.dragonproudsky.com/yylunbo.m3u","playerType":0}
 ],
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
