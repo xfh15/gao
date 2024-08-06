@@ -76,3 +76,7 @@ CETV4,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227337/index.m3u8
 四川乡村,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227403/index.m3u8
 康巴卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227629/index.m3u8
 麻辣体育,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227811/index.m3u8
+一起看,#genre#
+阿斗归来了,https://www.goodiptv.club/huya/13303478
+阿斗归来了2,http://iptv-go-three-gamma.vercel.app/huya/13303478
+经典小品,http://iptv-go-three-gamma.vercel.app/douyu/9067836
