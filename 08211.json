@@ -3,6 +3,7 @@
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
 "lives":[
   {"name":"myself","url":"./scunicom_v1.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","playerType":2},
+  {"name":"YanG•综合","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
   {"name":"huya","url":"https://live.dragonproudsky.com/huyayqk.m3u","playerType":2},
   {"name":"douyu","url":"https://live.dragonproudsky.com/douyuyqk.m3u","playerType":2},
   {"name":"yy","url":"https://live.dragonproudsky.com/yylunbo.m3u","playerType":2}
