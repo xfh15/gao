@@ -2,7 +2,7 @@
 "spider":"./jar/fan.txt;md5;d295ec4dcf9a78f8441996009a88ecb0",
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
 "lives":[
-  {"name":"myself","url":"./scunicom_v1.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","playerType":1},
+  {"name":"myself","url":"./scunicom_v1.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","playerType":3},
   {"name":"japan","url":"./japan.txt","playerType":2},
   {"name":"YanG•综合","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
   {"name":"huya","url":"https://live.dragonproudsky.com/allinone/huyayqk.m3u?url=https://live.dragonproudsky.com","playerType":2},
